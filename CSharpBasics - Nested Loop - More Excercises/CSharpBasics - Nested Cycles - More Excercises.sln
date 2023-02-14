@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01.UniquePinCodes", "ConsoleApp1\P01.UniquePinCodes.csproj", "{7D9A7352-8BD2-4778-878F-8E19B22F2C33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02.LettersCombinations", "P02.LettersCombinations\P02.LettersCombinations.csproj", "{5CEBE23B-81EE-42AC-8A5F-534654EEF2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9A7352-8BD2-4778-878F-8E19B22F2C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9A7352-8BD2-4778-878F-8E19B22F2C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9A7352-8BD2-4778-878F-8E19B22F2C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9A7352-8BD2-4778-878F-8E19B22F2C33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEBE23B-81EE-42AC-8A5F-534654EEF2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEBE23B-81EE-42AC-8A5F-534654EEF2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEBE23B-81EE-42AC-8A5F-534654EEF2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEBE23B-81EE-42AC-8A5F-534654EEF2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C844E2-2192-412D-976E-2983F3D4A9CC}
+	EndGlobalSection
+EndGlobal
